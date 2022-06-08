@@ -6,7 +6,6 @@
    **Copyright (c) 2022**   
    **VIC - Virtual Integrate Console**  
    **Version @0.1**   
-   **Author: Edward**
     
 ## /lib
  LibrayMath - библиотека математики.
